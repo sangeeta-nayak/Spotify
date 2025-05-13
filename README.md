@@ -1,22 +1,66 @@
-<h1 align="center">Hi 👋, I'm Sangeeta</h1>
-<h3 align="center">A passionate Java Full Stack developer from India</h3>
+# 🎧 Spotify Clone
 
-- 🔭 I’m currently working on **Payment Integration System for E-Commerce Application**
+A simple and stylish clone of the Spotify web interface built using **HTML**, **CSS**, and **JavaScript**. This project replicates the core UI of Spotify and introduces basic interactivity such as play/pause functionality and dynamic elements using JavaScript.
 
-- 🌱 I’m currently learning **Docker, Azure**
+---
 
-- 💬 Ask me about **💻 How I build cool stuff with Java + Spring Boot + React 🔗 Making frontend & backend talk like best friends**
+## ✨ Features
 
-- 📫 How to reach me **sangeetanayak451@gmail.com**
+- 🎵 Clean and modern Spotify-style layout  
+- 📱 Responsive design for desktop and mobile  
+- ⏯️ Play and pause music tracks  
+- 🧠 Pure HTML, CSS, and Vanilla JavaScript (No frameworks)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_LjUP7DRV0kN4wDO7A4U2Oe7UPb8_rUo/view?usp=drivesdk](https://drive.google.com/file/d/1_LjUP7DRV0kN4wDO7A4U2Oe7UPb8_rUo/view?usp=drivesdk)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sangeeta-nayak05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sangeeta-nayak05" height="30" width="40" /></a>
-</p>
+## 🔧 Technologies Used
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangeeta-nayak&show_icons=true&locale=en&layout=compact" alt="sangeeta-nayak" /></p>
+---
+
+## 📂 Project Structure
+
+```
+spotify-clone/
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│   ├── images/
+│   └── music/
+```
+
+---
+
+## 🚀 Getting Started
+
+To run the project locally:
+
+```bash
+git clone https://github.com/sangeeta-nayak/spotify-clone.git
+cd spotify-clone
+```
+
+Then open `index.html` in your browser (double-click or open in code editor).
+
+> 💡 No build tools or server setup required — it's 100% frontend.
+
+---
+
+## 🤝 Contributions
+
+Pull requests and suggestions are welcome! If you spot a bug or want to add a feature, feel free to contribute.
+
+---
+
+## 📬 Contact
+
+- 📧 Email: [sangeetanayak451@gmail.com](mailto:sangeetanayak451@gmail.com)  
+- 💼 LinkedIn: [sangeeta-nayak05](https://www.linkedin.com/in/sangeeta-nayak05)
+
+---
+
+> This project was built as a front-end practice project to understand media handling and DOM manipulation in JavaScript.
